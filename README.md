@@ -6,6 +6,13 @@
 
 ## Day 1: Trebuchet ⭐⭐
 **_Times_**:
+
 ⭐: 31min 27s
+
 ⭐⭐: 4h 27min 52s
-## Day 2: ?
+## Day 2: Cube Conundrum 
+**_Times_**:
+
+⭐:
+
+⭐⭐:
