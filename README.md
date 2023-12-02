@@ -13,6 +13,6 @@
 ## Day 2: Cube Conundrum 
 **_Times_**:
 
-⭐:
+⭐: _ongoing_
 
-⭐⭐:
+⭐⭐: ?
