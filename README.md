@@ -10,9 +10,9 @@
 ⭐: 31min 27s
 
 ⭐⭐: 4h 27min 52s
-## Day 2: Cube Conundrum 
+## Day 2: Cube Conundrum  ⭐⭐
 **_Times_**:
 
-⭐: _ongoing_
+⭐: 32min 12s
 
-⭐⭐: ?
+⭐⭐: 26min 42s
